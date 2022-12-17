@@ -1,0 +1,16 @@
+program mk;
+
+uses
+  Vcl.Forms,
+  uFrmPrincipal in 'view\uFrmPrincipal.pas' {FrmPrincipal},
+  UPedidoModel in 'model\UPedidoModel.pas',
+  uPedidoController in 'controller\uPedidoController.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFrmPrincipal, FrmPrincipal);
+  Application.Run;
+end.

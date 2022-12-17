@@ -1,0 +1,50 @@
+unit uFrmPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Data.DB, Vcl.DBCtrls,
+  Vcl.Grids, Vcl.DBGrids, Vcl.ExtCtrls;
+
+type
+  TFrmPrincipal = class(TForm)
+    GroupBox1: TGroupBox;
+    edtCodCliente: TEdit;
+    lbCodCliente: TLabel;
+    BtConsultaCliente: TButton;
+    EdtNomeCliente: TEdit;
+    Label1: TLabel;
+    Label2: TLabel;
+    EdtCidade: TEdit;
+    Label3: TLabel;
+    EdtUF: TEdit;
+    GroupBox2: TGroupBox;
+    Panel1: TPanel;
+    Label4: TLabel;
+    EdtCodProduto: TEdit;
+    BtConsultaProduto: TButton;
+    Label5: TLabel;
+    Edit1: TEdit;
+    Label6: TLabel;
+    EdtQtd: TEdit;
+    Label7: TLabel;
+    Edit2: TEdit;
+    Button1: TButton;
+    DBGrid1: TDBGrid;
+    DBNavigator1: TDBNavigator;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmPrincipal: TFrmPrincipal;
+
+implementation
+
+{$R *.dfm}
+
+end.
+                      jj

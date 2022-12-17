@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/06 09:35:57.000.343,=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 08:49:48.000.152,=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 08:55:27.000.994,=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 10:36:24.000.776,=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/20 08:56:07.000.353,=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/21 12:01:32.000.858,=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/30 10:01:46.000.284,=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/11 12:15:38.000.538,=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/23 12:29:12.000.603,=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/14 08:20:48.000.555,=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 12:07:22.000.220,=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 12:10:24.000.246,C:\Users\68552629291\OneDrive\Documentos\Desenv\MK\view\uFrmPrincipal.dfm=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/12/16 12:10:24.000.246,C:\Users\68552629291\OneDrive\Documentos\Desenv\MK\view\uFrmPrincipal.pas=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 12:10:38.000.944,C:\Users\68552629291\OneDrive\Documentos\Desenv\MK\mk.dproj=C:\Users\68552629291\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/12/16 15:26:01.761,=C:\Users\rebso\OneDrive\Documentos\Desenv\MK\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 15:36:07.439,C:\Users\rebso\OneDrive\Documentos\Desenv\MK\model\UPedidoModel.pas=C:\Users\rebso\OneDrive\Documentos\Desenv\MK\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 15:36:22.172,=C:\Users\rebso\OneDrive\Documentos\Desenv\MK\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 15:37:00.071,C:\Users\rebso\OneDrive\Documentos\Desenv\MK\controller\uPedidoController.pas=C:\Users\rebso\OneDrive\Documentos\Desenv\MK\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 16:00:15.177,=C:\Users\rebso\OneDrive\Documentos\Desenv\MK\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 16:00:39.272,C:\Users\rebso\OneDrive\Documentos\Desenv\MK\dao\uPedidiDAO.pas=C:\Users\rebso\OneDrive\Documentos\Desenv\MK\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 16:01:21.218,=C:\Users\rebso\OneDrive\Documentos\Desenv\MK\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 16:01:34.645,=C:\Users\rebso\OneDrive\Documentos\Desenv\MK\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 16:06:16.548,=C:\Users\rebso\OneDrive\Documentos\Desenv\MK\ModelSupport_mk\default.txaPackage</Transaction>
+    <Transaction>2022/12/16 22:30:22.012,C:\Users\rebso\OneDrive\Documentos\Desenv\MK\uDmConexao.pas=C:\Users\rebso\OneDrive\Documentos\Desenv\MK\Unit1.pas</Transaction>
+    <Transaction>2022/12/16 22:30:22.040,C:\Users\rebso\OneDrive\Documentos\Desenv\MK\uDmConexao.dfm=C:\Users\rebso\OneDrive\Documentos\Desenv\MK\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

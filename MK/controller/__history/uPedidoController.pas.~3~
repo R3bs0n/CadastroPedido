@@ -1,0 +1,18 @@
+unit uPedidoController;
+
+interface
+uses
+  UPedidoModel;
+
+  type
+  TPedidoController = class
+  private
+    { private declarations }
+  public
+    { public declarations }
+    function Inserir(oPedido:TPedido; var sErro:string):Boolean;
+  end;
+
+implementation
+
+end.

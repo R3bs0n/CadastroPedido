@@ -1,0 +1,17 @@
+unit UPedidoModel;
+
+interface
+  type
+  TPedido = class
+  private
+    { private declarations }
+
+  public
+    { public declarations }
+
+
+  end;
+
+implementation
+
+end.

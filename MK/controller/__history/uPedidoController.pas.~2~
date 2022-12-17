@@ -1,0 +1,14 @@
+unit uPedidoController;
+
+interface
+  type
+  TPedidoController = class
+  private
+    { private declarations }
+  public
+    { public declarations }
+  end;
+
+implementation
+
+end.

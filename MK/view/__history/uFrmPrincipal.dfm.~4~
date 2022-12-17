@@ -1,0 +1,89 @@
+object FrmPrincipal: TFrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Pedido de Vendas'
+  ClientHeight = 355
+  ClientWidth = 756
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object GroupBox1: TGroupBox
+    Left = 0
+    Top = 0
+    Width = 756
+    Height = 113
+    Align = alTop
+    Caption = 'Cliente'
+    TabOrder = 0
+    object lbCodCliente: TLabel
+      Left = 3
+      Top = 19
+      Width = 69
+      Height = 13
+      Caption = 'C'#243'digo Cliente'
+    end
+    object Label1: TLabel
+      Left = 135
+      Top = 19
+      Width = 33
+      Height = 13
+      Caption = 'Cliente'
+    end
+    object Label2: TLabel
+      Left = 3
+      Top = 61
+      Width = 33
+      Height = 13
+      Caption = 'Cidade'
+    end
+    object Label3: TLabel
+      Left = 110
+      Top = 61
+      Width = 13
+      Height = 13
+      Caption = 'UF'
+    end
+    object edtCodCliente: TEdit
+      Left = 3
+      Top = 35
+      Width = 101
+      Height = 21
+      TabOrder = 0
+    end
+    object BtConsultaCliente: TButton
+      Left = 104
+      Top = 33
+      Width = 25
+      Height = 25
+      Caption = 'OK'
+      TabOrder = 1
+    end
+    object EdtNomeCliente: TEdit
+      Left = 135
+      Top = 35
+      Width = 474
+      Height = 21
+      TabOrder = 2
+    end
+    object EdtCidade: TEdit
+      Left = 3
+      Top = 77
+      Width = 101
+      Height = 21
+      TabOrder = 3
+    end
+    object EdtUF: TEdit
+      Left = 110
+      Top = 77
+      Width = 101
+      Height = 21
+      TabOrder = 4
+    end
+  end
+end
